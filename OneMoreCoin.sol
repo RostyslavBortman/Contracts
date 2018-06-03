@@ -238,7 +238,7 @@ contract StandardToken is ERC20, BurnableToken {
 }
 
 
-contract Shardcoin is StandardToken {
+contract OneMoreCoin is StandardToken {
   string public name;
   string public symbol;
   uint8 public decimals;
